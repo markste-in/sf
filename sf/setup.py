@@ -11,7 +11,7 @@ setuptools.setup(
     description="A python package for earth, balloon and rocket physics",
     long_description="A python package for earth, balloon and rocket physics",
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/sys-fail/sf,
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
