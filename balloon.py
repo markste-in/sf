@@ -48,7 +48,7 @@ class balloon:
         self.weight_payload = weight_payload # kg
         self.Gas = Gas # Helium as default
         self.alpha = alpha,
-        self.burst_radius = burst_radius,
+        self.burst_radius = burst_radius
         self.molesGasFilling = balloon.MolesGasFilling(self)
     # def deltaPInsideOutsideMR(self, radius_inflated):
     #     """
