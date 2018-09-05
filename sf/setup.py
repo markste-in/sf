@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="sf",
-    version="0.0.1",
+    version="0.0.2",
     author="Tommy Markstein",
     author_email="signed-boolean@sys.fail",
     description="A python package for earth, balloon and rocket physics",
