@@ -11,9 +11,6 @@ class balloon:
         'weight_balloon':0.35,
         'radius_uninflated':0.625,
         'burst_radius':2.06,
-        'thickness_uninflated':0.2e-3,
-        'shear_modulus':300.e3,
-        'alpha':10.
         }
         balloon600g = {
         'weight_balloon':0.6,
